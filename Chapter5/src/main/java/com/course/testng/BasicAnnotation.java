@@ -1,3 +1,5 @@
+package com.course.testng;
+
 import org.testng.annotations.*;
 
 public class BasicAnnotation {
